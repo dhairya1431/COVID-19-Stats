@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dhairya1431.github.io/static/css/main.59645820.chunk.css",
-    "main.js": "/dhairya1431.github.io/static/js/main.0ffd8531.chunk.js",
-    "main.js.map": "/dhairya1431.github.io/static/js/main.0ffd8531.chunk.js.map",
-    "runtime-main.js": "/dhairya1431.github.io/static/js/runtime-main.5c377adf.js",
-    "runtime-main.js.map": "/dhairya1431.github.io/static/js/runtime-main.5c377adf.js.map",
-    "static/js/2.8c250609.chunk.js": "/dhairya1431.github.io/static/js/2.8c250609.chunk.js",
-    "static/js/2.8c250609.chunk.js.map": "/dhairya1431.github.io/static/js/2.8c250609.chunk.js.map",
-    "index.html": "/dhairya1431.github.io/index.html",
-    "precache-manifest.cf1add049dadefdaaaf3557c3a6f69a1.js": "/dhairya1431.github.io/precache-manifest.cf1add049dadefdaaaf3557c3a6f69a1.js",
-    "service-worker.js": "/dhairya1431.github.io/service-worker.js",
-    "static/css/main.59645820.chunk.css.map": "/dhairya1431.github.io/static/css/main.59645820.chunk.css.map",
-    "static/js/2.8c250609.chunk.js.LICENSE.txt": "/dhairya1431.github.io/static/js/2.8c250609.chunk.js.LICENSE.txt",
-    "static/media/image.png": "/dhairya1431.github.io/static/media/image.d7265326.png"
+    "main.css": "/COVID-19-Live-Count/static/css/main.59645820.chunk.css",
+    "main.js": "/COVID-19-Live-Count/static/js/main.0ffd8531.chunk.js",
+    "main.js.map": "/COVID-19-Live-Count/static/js/main.0ffd8531.chunk.js.map",
+    "runtime-main.js": "/COVID-19-Live-Count/static/js/runtime-main.1537fc3c.js",
+    "runtime-main.js.map": "/COVID-19-Live-Count/static/js/runtime-main.1537fc3c.js.map",
+    "static/js/2.392eb92a.chunk.js": "/COVID-19-Live-Count/static/js/2.392eb92a.chunk.js",
+    "static/js/2.392eb92a.chunk.js.map": "/COVID-19-Live-Count/static/js/2.392eb92a.chunk.js.map",
+    "index.html": "/COVID-19-Live-Count/index.html",
+    "precache-manifest.0723e1bae87811fd25eb9541d87f0ea7.js": "/COVID-19-Live-Count/precache-manifest.0723e1bae87811fd25eb9541d87f0ea7.js",
+    "service-worker.js": "/COVID-19-Live-Count/service-worker.js",
+    "static/css/main.59645820.chunk.css.map": "/COVID-19-Live-Count/static/css/main.59645820.chunk.css.map",
+    "static/js/2.392eb92a.chunk.js.LICENSE.txt": "/COVID-19-Live-Count/static/js/2.392eb92a.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/COVID-19-Live-Count/static/media/image.d7265326.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c377adf.js",
-    "static/js/2.8c250609.chunk.js",
+    "static/js/runtime-main.1537fc3c.js",
+    "static/js/2.392eb92a.chunk.js",
     "static/css/main.59645820.chunk.css",
     "static/js/main.0ffd8531.chunk.js"
   ]
